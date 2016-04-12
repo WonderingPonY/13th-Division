@@ -1,10 +1,11 @@
 Version 1.0.0--April 08, 2016
+Version 1.2.3--April 11, 2016
 
-This is a patrolling field manual for the army. Everything here is derived from several different field manuals. (Probably mostly Canadian)
+This is a patrolling field manual for the army. Everything here is derived from several different field manuals. (Canadian)
 
 Introduction
 
-A patrol is a detachment send out from a unit to perform an assigned mission of reconnaissance or combat or a combination of both. Patrols will vary in size from as little as three personnel, up to a company in strength. Patrolling is carried out by day and by night, in all types of operations.
+A patrol is a detachment sent out from a unit to perform an assigned mission of reconnaissance or combat or a combination of both. Patrols will vary in size from as little as three personnel, up to a company in strength. Patrolling is carried out by day and by night, in all types of operations.
 
 The Aims of Patrolling
 
@@ -14,12 +15,12 @@ To gain and maintain the initiative
 To gain information
 -This may be related to one of the following:
 (a)The enemy- Strength, location, disposition, identification, state of defences, habits, early warning of his intention.
-(b)The Ground - Going for vehicles and infantry, obstacles, for and ice recess, bridge classification and map corrections
+(b)The Ground - Going for vehicles and infantry, obstacles, and for ice recess, bridge classification and map corrections
 
 To Deny Information to Enemy Patrols
 -This may include information on:
-(a) disposition, strength, intention, state of defence; and
-(b)approaches to position and obstacles
+(a) Disposition, strength, intention, state of defence; and
+(b) Approaches to position and obstacles
 
 To Harass the Enemy
 -The aim is to maintain pressure on the enemy, deny him rest and lower his morale.
@@ -47,6 +48,6 @@ The Patrolling Spirit
 (e) maintaining a high personal standard of weapons handling and fieldcraft
 
 -A patrolman must be a highly skilled and well-trained infantryman. He must be able to:
-(a) move quickly across any type of country, independent of roads;
+(a) move quickly across any type of terrains, independent of roads;
 (b) be prepared to fight by day or by night equally well; and
 (c) be capable of working as a member of a small group or as an individual
