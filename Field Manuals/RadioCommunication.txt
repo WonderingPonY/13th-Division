@@ -1,0 +1,110 @@
+Version 0.2.1
+April 07, 2016
+
+Radio Communication - Basic RulesGracey
+
+While exchanging messages over the radio, you should follow some basic rules. Below you will find the basic, fixed radio phraseology used in radio transmissions along with some military procedures.
+
+Universal Rules of Radio Communication
+Before you press the transmission button, gather your thoughts about what you are going to say. Many people with radios have a tendency to talk and(or) repeat too much. Say what you need to say. Keep in mind your message should go through the first time. You may not have an opportunity to repeat it.
+Give the callsign of the unit you are calling first. It will let them know that they are the focus for the incoming message. There may be other listeners so you must let them know that they will be the focus of the message.
+Introduce yourself with your callsign, not your real name or callsign.
+Don't speak too fast, especially if the message needs to be written down. Pause for logical phrases, and high voices do not mean that you will be more readable.
+Use "CLEAR", "OVER", or "OUT" to complete your message. It lets the listener know you are finished your transmission.
+When you have understood a received message, acknowledge the transmission with "COPY", RECEIVED", "ROGER", or "ACKNOWLEDGED". The word "COPY" is preferred.
+If the caller requires some actions you may use "WILCO" instead of "ROGER" to notify that you WILL COMPLY.
+Use "BREAK, BREAK" whenever there is a radio traffic and you want to get through with your EMERGENCY message.
+Answer each call to confirm your reception. Use "RECIEVED", "COPY", "ROMEO", or "ACKNOWLEDGED".
+If you do NOT understand the message, do not confirm it. Use "SAY AGAIN", "REPEAT", "STAND BY" instead.
+Whenever a word must be spelled out, use the NATO Phonetic Alphabet. Do not invent your own words, they may be misleading.
+Use single, cardinal numbers, do not combine them into bigger numbers.
+Call out
+
+When you want to initiate a radio exchange, first you must call out the addressee of your message. To notify the addressee about the incoming message call him twice, giving his callsign:
+
+Example: Delta Two Six, Delta Two Six....
+Then give your callsign:
+Example: this is Charlie Two Two, OVER.
+
+when you expect the other part to answer, finished your portion of the message with the word "OVER" like in the example above.
+
+If there is traffic on the air, use "BREAK, BREAK" to cut into the network. ONLY in case of higher priority message!
+
+Quality of transmission
+
+In case of some interference or just to confirm your message was received you may need to ask about the reception. In this instance we use "HOW DO YOU COPY?" or even shorter, "HOW COPY?" To ask about the general quality of the reception you may also ask, "HOW DO YOU READ?"
+
+There are two ways of responding to such questions. You may simply answer "COPY LOUD AND CLEAR" or "LIMA CHARLIE" or give the answerer the notion of the signal quality by give the note from 1 to 5.
+
+Example: COPY 3 by 5
+
+The meaning of numbers used in assessment over the radio:
+
+1 = Bad (Unreadable)
+2 = Poor (Readable now and then)
+3 = Fair (Readable but with difficulty)
+4 = Good (Readable)
+5 = Excellent (Perfectly readable)
+When a repeat is needed
+
+It may happen that due to poor transmission quality or distracting factors some pieces of information should be repeated to avoid misunderstandings. In that case you may request a repeat by saying "SAY AGAIN"
+
+Likewise, when you want to stress the importance of the message or simply to make sure that important data gets through, you say your message and then use "I SAY AGAIN" and repeat the message.
+
+Example: I need five more minutes, I SAY AGAIN, five more minutes....
+
+Numbers in radio transmission
+
+It is a common practice to say numbers with each digit separately. For instance, we say "CHARLIE TWO-THREE" instead of "CHARLIE TWENTY THREE." Additionally, to avoid misunderstandings two particular numerals are pronounced differently:
+
+4 = [foer]
+
+9 = [niner]
+
+NATO Phonetic Alphabet
+
+Letters
+A= Alfa(ATIS:Alpha)
+B=Bravo
+C=Charlie
+D=Delta
+E=Echo
+F=Foxtrot
+G=Golf
+H=Hotel
+I=India
+J=Juliett(ATIS: Juliet)
+K=Kilo
+L=Lima
+M=Mike
+N=November
+O=Oscar
+P=Papa
+Q=Quebec(keh BECK)
+R=Romeo
+S=Sierra
+T=Tango
+U=Uniform
+V=Victor
+W=Whiskey
+X=X-Ray or Xray
+Y=Yankee
+Z=Zulu
+-(hyphen)=Dash
+
+Digits
+0=Zero
+1=One
+2=Two
+3=Three
+4=Four
+5=Five
+6=Six
+7=Seven
+8=Eight
+9=Niner
+10=Ten
+100=Hundred
+1000=Thousand
+.(Decimal Point)=Point(FAA)Decimal(ITU,ICAO)
+.(Full Stop)=Stop
